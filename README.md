@@ -20,3 +20,9 @@ You can find me on [LinkedIN](https://www.linkedin.com/in/surajsarangi) or follo
 <img  src="https://simpleicons.org/icons/anaconda.svg"  alt="anaconda"  height="50"  width="50">&nbsp;&nbsp;<img src="https://simpleicons.org/icons/numpy.svg" alt="numpy" width="50" height="50"/>&nbsp;&nbsp;<img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" width="50" height="50"/><img src="https://simpleicons.org/icons/scikit-learn.svg" alt="sklearn" width="50"  height="50"/>&nbsp;&nbsp;<img  src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"  alt="Tensorflow" width="50"  height="50"/>  
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSarangi&hide=java,html,css,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajSarangi)](https://github.com/anuraghazra/github-readme-stats)
+
+---
