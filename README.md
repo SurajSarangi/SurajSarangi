@@ -7,7 +7,7 @@
 An aspiring Software Engineer well versed with frontend and backend development and machine learning.
 Love to develop using javascript and code using python.
 
-You can find me on [LinkedIN](https://www.linkedin.com/in/surajsarangi) or follow me on [Twitter](https://twitter.com/_suraj_sarangi)
+You can find me on [LinkedIN](https://www.linkedin.com/in/surajsarangi) or [Twitter](https://twitter.com/_suraj_sarangi)
 
 ---
 
