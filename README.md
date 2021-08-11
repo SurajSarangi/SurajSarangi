@@ -28,6 +28,6 @@ You can find me on [LinkedIN](https://www.linkedin.com/in/surajsarangi) or [Twit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSarangi&hide=java,html,css,jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajSarangi)](https://github.com/anuraghazra/github-readme-stats)
+[![Suraj Sarangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurajSarangi)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
